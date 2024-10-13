@@ -1,10 +1,10 @@
-﻿# CashRichAssesment
+﻿# CashRich
 
-# MyCashRichApp
+
 
 ## Overview
 
-MyCashRichApp is a backend application built with Spring Boot that allows users to create and update profiles, and retrieve cryptocurrency data from a third-party API (CoinMarketCap). This application includes user signup, login, and profile update functionalities with secure API access and proper validation.
+CashRich is a backend application built with Spring Boot that allows users to create and update profiles, and retrieve cryptocurrency data from a third-party API (CoinMarketCap). This application includes user signup, login, and profile update functionalities with secure API access and proper validation.
 
 ## Tech Stack
 
