@@ -39,7 +39,7 @@ CashRich is a backend application built with Spring Boot that allows users to cr
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/kushwahaarpit/CashRichAssesment.git
+   git clone https://github.com/kushwahaarpit/CoinConnect.git
    cd mycashrichapp
 
    
